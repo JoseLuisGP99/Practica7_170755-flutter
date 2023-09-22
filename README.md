@@ -34,10 +34,8 @@
 <p align="justify">
   Esta nueva aplicacion esta orientada a la recomendacion de las peliculas a travez del consumo de una api, se coloco iconos de referencia los cuales nos ayudaran a una mejor experiencia.
 </p>
-<p  align="center">
-  [![Captura-de-pantalla-5.png](https://i.postimg.cc/mkfCfqHB/Captura-de-pantalla-5.png)](https://postimg.cc/HczVb6zh)
-</p>
 
+[![Captura-de-pantalla-5.png](https://i.postimg.cc/mkfCfqHB/Captura-de-pantalla-5.png)](https://postimg.cc/HczVb6zh)
 
 <br>
 <br>
