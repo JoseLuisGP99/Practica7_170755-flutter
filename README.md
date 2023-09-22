@@ -32,7 +32,7 @@
 
 ## Detalles
 <p align="justify">
-  Esta nueva aplicacion esta orientada a la recomendacion de las peliculas a travez del consumo de una api, se coloco iconos de referencia los cuales nos ayudaran a una mejor experiencia.
+  Esta nueva aplicacion esta orientada a la recomendacion de las peliculas a travez del consumo de una api, se coloco iconos de referencia los cuales nos ayudaran a una mejor experiencia, aqui se ocuparon 3 iconos diferentes.
 </p>
 
 [![Captura-de-pantalla-5.png](https://i.postimg.cc/mkfCfqHB/Captura-de-pantalla-5.png)](https://postimg.cc/HczVb6zh)
