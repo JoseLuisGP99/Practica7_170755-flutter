@@ -36,6 +36,7 @@
 </p>
 
 [![Captura-de-pantalla-5.png](https://i.postimg.cc/mkfCfqHB/Captura-de-pantalla-5.png)](https://postimg.cc/HczVb6zh)
+[![Captura-de-pantalla-6.png](https://i.postimg.cc/cHYtmm5j/Captura-de-pantalla-6.png)](https://postimg.cc/7GHLPg4M)
 
 <br>
 <br>
