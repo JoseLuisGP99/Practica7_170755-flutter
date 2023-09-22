@@ -35,11 +35,7 @@
   Esta nueva aplicacion esta orientada a la recomendacion de las peliculas a travez del consumo de una api, se coloco iconos de referencia los cuales nos ayudaran a una mejor experiencia.
 </p>
 <p  align="center">
-  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/luffy1.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/zoro2.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/nami3.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/ussop4.jpg" width="15%"/>
-  <img src="https://github.com/Daniela06112002/DMI_TAREA5_200644/blob/main/screenshots/sanji4.jpg" width="15%"/>
+  [![Captura-de-pantalla-5.png](https://i.postimg.cc/mkfCfqHB/Captura-de-pantalla-5.png)](https://postimg.cc/HczVb6zh)
 </p>
 
 
